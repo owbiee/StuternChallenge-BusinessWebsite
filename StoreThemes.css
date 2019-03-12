@@ -1,0 +1,109 @@
+@charset "UTF-8";
+
+
+body
+{
+  text-align: center;
+  background: #808080;
+}
+
+ul
+{
+  background: #4B0082;
+  height: 60px;
+  margin-top: -8px;
+  width: 100%;
+  margin-right: -10px;
+  padding-top: 30px;
+  margin-left: -10px;
+  position: fixed;
+}
+
+ul li
+{
+  display: inline;
+  margin-right: 15px;
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.Name
+{
+  float: left;
+}
+
+.Cart
+{
+  float: right;
+  margin-right: 60px;
+  height: 40px;
+  width: 105px;
+  font-family: cursive;
+  font-size: 15px;
+  border-radius: 7px;
+  color: #4B0082;
+}
+
+.header
+{
+  background: url("store.jpg");
+  background-size: cover;
+  height: 400px;
+  margin-top: -16px;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-top: 150px;
+  font-size: 50px;
+  color: rgba(0,0,0,.7);
+}
+
+.body
+{
+  height: 420px;
+  border-radius: 10px;
+  background: white;
+}
+
+.body1
+{
+  height: 420px;
+  border-radius: 10px;
+  background: white;
+}
+
+.body h2
+{
+  padding-top: 10px;
+}
+
+img
+{
+  height: 270px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+table
+{
+border-spacing: 5px;
+margin: 0 auto;
+}
+
+td
+{
+  padding: 5px;
+}
+
+button
+{
+  height: 35px;
+  width: 90px;
+  background: #FF8C00;
+  color: white;
+}
+
+h2
+{
+  font-family: cursive;
+}
